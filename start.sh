@@ -4,7 +4,7 @@
 ./AssettoServer
 
 # Path to the log directory
-log_directory="/home/ubuntu/acnurburgring/logs"
+log_directory="/ac_server_directory/logs"
 
 # Path to the destination directory
 destination_directory="/var/www/html"
